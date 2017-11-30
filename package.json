@@ -1,0 +1,20 @@
+{
+  "name": "nerney-assignment1",
+  "version": "0.0.0",
+  "description": "Nerney-Assignment1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": {
+    "name": "nerney"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0"
+  }
+}
